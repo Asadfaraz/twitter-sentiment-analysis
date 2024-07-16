@@ -76,11 +76,3 @@ python sentiment_analysis.py
 ## Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a clear and organized overview of your project, making it easy for others to understand and use. Let me know if you need any changes or additional details!

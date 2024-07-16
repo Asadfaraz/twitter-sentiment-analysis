@@ -1,8 +1,5 @@
-Sure, here's a clean and detailed README file for your project:
 
----
-
-# Twitter Sentiment Analysis
+#Twitter Sentiment Analysis
 
 This project focuses on sentiment analysis using a dataset of tweets. The project includes text preprocessing, feature extraction, and classification using various machine learning models.
 
